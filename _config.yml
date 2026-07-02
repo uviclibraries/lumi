@@ -34,7 +34,7 @@ callouts:
     color: purple
   warning:
     title: Warning
-    color: red
+    color: red 
 
 # Footer Information
 # Back to top link
